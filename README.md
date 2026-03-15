@@ -8,6 +8,8 @@
 [![downloads](https://img.shields.io/github/downloads/metacubex/metacubexd/total?style=for-the-badge)](https://github.com/metacubex/metacubexd/releases)
 [![license](https://img.shields.io/github/license/metacubex/metacubexd?style=for-the-badge)](./LICENSE)
 
+[中文](README-zh.md) | [English](README.md)
+
 ## ✨ Features
 
 - 📊 Real-time traffic monitoring and statistics
