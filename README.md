@@ -1,6 +1,6 @@
 # metacubexd
 
-**Mihomo Dashboard, The Official One, XD**
+**SingBox Dashboard, The UnOfficial One, XD**
 
 [![pr-closed](https://img.shields.io/github/issues-pr-closed/metacubex/metacubexd?style=for-the-badge)](https://github.com/metacubex/metacubexd/pulls)
 [![last-commit](https://img.shields.io/github/last-commit/metacubex/metacubexd?style=for-the-badge)](https://github.com/metacubex/metacubexd/commits)
@@ -62,7 +62,7 @@
 
 ### Prerequisites
 
-Enable external-controller in your mihomo config:
+Enable external-controller in your Singbox config:
 
 ```yaml
 external-controller: 0.0.0.0:9090
@@ -72,13 +72,13 @@ external-controller: 0.0.0.0:9090
 
 ```shell
 # Clone the gh-pages branch
-git clone https://github.com/metacubex/metacubexd.git -b gh-pages /etc/mihomo/ui
+git clone https://github.com/metacubex/metacubexd.git -b gh-pages /ui
 
 # Set external-ui in your config
-# external-ui: /etc/mihomo/ui
+# external-ui: /ui
 
 # Update to latest version
-git -C /etc/mihomo/ui pull -r
+git -C /ui pull -r
 ```
 
 ### Option 2: Docker
