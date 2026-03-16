@@ -64,7 +64,7 @@
 
 ### 提前准备
 
-Enable external-controller in your Singbox config:
+在你的 singbox 配置中打开 external-controller :
 
 ```yaml
 external-controller: 0.0.0.0:9090
