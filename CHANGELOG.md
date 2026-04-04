@@ -1,5 +1,40 @@
 # Changelog
 
+## [1.244.2](https://github.com/MetaCubeX/metacubexd/compare/v1.244.1...v1.244.2) (2026-04-01)
+
+
+### Bug Fixes
+
+* **deps:** override vulnerable transitive dependencies ([252153c](https://github.com/MetaCubeX/metacubexd/commit/252153c59f31fa03f38d54a6fdcb16b22ce9a04a))
+
+## [1.244.1](https://github.com/MetaCubeX/metacubexd/compare/v1.244.0...v1.244.1) (2026-03-31)
+
+
+### Bug Fixes
+
+* disable app manifest for browser compat and show endpoint errors ([#1891](https://github.com/MetaCubeX/metacubexd/issues/1891), [#1859](https://github.com/MetaCubeX/metacubexd/issues/1859)) ([b643425](https://github.com/MetaCubeX/metacubexd/commit/b64342589863932090aafbcfcefcbb37e179b7dd))
+
+## [1.244.0](https://github.com/MetaCubeX/metacubexd/compare/v1.243.2...v1.244.0) (2026-03-31)
+
+
+### Features
+
+* prioritize proxy groups in sorting ([#1929](https://github.com/MetaCubeX/metacubexd/issues/1929)) ([9d3b079](https://github.com/MetaCubeX/metacubexd/commit/9d3b0794458b80a2dfb3db95242a267271c66135))
+
+## [1.243.2](https://github.com/MetaCubeX/metacubexd/compare/v1.243.1...v1.243.2) (2026-03-28)
+
+
+### Bug Fixes
+
+* correct regex in compareVersions that broke version update detection ([#1927](https://github.com/MetaCubeX/metacubexd/issues/1927)) ([8508936](https://github.com/MetaCubeX/metacubexd/commit/85089366bd4445c93df578eed56f96cc22354b61))
+
+## [1.243.1](https://github.com/MetaCubeX/metacubexd/compare/v1.243.0...v1.243.1) (2026-03-28)
+
+
+### Bug Fixes
+
+* **deps:** override vulnerable transitive dependencies ([4b38650](https://github.com/MetaCubeX/metacubexd/commit/4b38650f5ef7d90a8a03bec17850eeeea59ac5f0))
+
 ## [1.243.0](https://github.com/MetaCubeX/metacubexd/compare/v1.242.0...v1.243.0) (2026-03-14)
 
 
