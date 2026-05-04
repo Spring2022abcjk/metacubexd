@@ -1,5 +1,54 @@
 # Changelog
 
+## [1.246.3](https://github.com/MetaCubeX/metacubexd/compare/v1.246.2...v1.246.3) (2026-05-03)
+
+
+### Bug Fixes
+
+* avoid rewriting docker config asset ([119adcd](https://github.com/MetaCubeX/metacubexd/commit/119adcd5d97012236a45e941bb140eafa74a7c3d))
+
+## [1.246.2](https://github.com/MetaCubeX/metacubexd/compare/v1.246.1...v1.246.2) (2026-04-30)
+
+
+### Bug Fixes
+
+* build docker image on native builder platform ([6a87b05](https://github.com/MetaCubeX/metacubexd/commit/6a87b0579e359c592dc729bb1c8e186960e8061b))
+
+## [1.246.1](https://github.com/MetaCubeX/metacubexd/compare/v1.246.0...v1.246.1) (2026-04-30)
+
+
+### Bug Fixes
+
+* restore release CI build ([4634095](https://github.com/MetaCubeX/metacubexd/commit/46340951cd08dd8f2b2a57366e017d4dbdeb108f))
+
+## [1.246.0](https://github.com/MetaCubeX/metacubexd/compare/v1.245.1...v1.246.0) (2026-04-30)
+
+
+### Features
+
+* **traffic:** improve data usage analytics ([#1959](https://github.com/MetaCubeX/metacubexd/issues/1959)) ([34fa949](https://github.com/MetaCubeX/metacubexd/commit/34fa94971272af42afd7e371d3e6c7719a82af27))
+
+## [1.245.1](https://github.com/MetaCubeX/metacubexd/compare/v1.245.0...v1.245.1) (2026-04-21)
+
+
+### Bug Fixes
+
+* correct logic bugs and improve error handling ([90a601f](https://github.com/MetaCubeX/metacubexd/commit/90a601ffd691100a7f5939fc1a369d0934775d39))
+* make batch latency test reactive and fix keyboard shortcut refresh ([fbdb4a7](https://github.com/MetaCubeX/metacubexd/commit/fbdb4a7f12a5019068f684f0807d10d04d5d746e))
+* resolve TypeScript errors and update dependency compatibility ([83d5c9d](https://github.com/MetaCubeX/metacubexd/commit/83d5c9d9aaec35ea1ea3f48861c492f58adca381))
+
+## [1.245.0](https://github.com/MetaCubeX/metacubexd/compare/v1.244.2...v1.245.0) (2026-04-18)
+
+
+### Features
+
+* **rules:** add rule toggle and match stats ([#1943](https://github.com/MetaCubeX/metacubexd/issues/1943)) ([acdcf3a](https://github.com/MetaCubeX/metacubexd/commit/acdcf3a58aa6a2cf5372a205a27f6d8dfb40764d))
+
+
+### Bug Fixes
+
+* update ky v2 API - prefixUrl to prefix ([#1942](https://github.com/MetaCubeX/metacubexd/issues/1942)) ([e76c7da](https://github.com/MetaCubeX/metacubexd/commit/e76c7da98bf5936da75517e1b2882af9e918f492))
+
 ## [1.244.2](https://github.com/MetaCubeX/metacubexd/compare/v1.244.1...v1.244.2) (2026-04-01)
 
 
